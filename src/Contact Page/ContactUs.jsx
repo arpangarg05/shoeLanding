@@ -36,9 +36,6 @@ export default function ContactUs() {
                     <label htmlFor="name" className='absolute left-[28px] top-[140px] bg-white'>Text</label>
                     <textarea type="text" name="name"  rows="5" className='w-full mt-1 border-[1px]  border-gray-500 rounded-sm '/>
                     
-                    <button className='ml-auto w-[220px] h-12 bg-black text-white rounded-md pb-96'>
-                    Submit
-                </button>
                 </form>
             </div>
         </div>
