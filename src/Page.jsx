@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Page() {
   return (
-    <div className='w-4/5 bg-center mt-24 flex justify-left'>
+    <div className='w-4/5 bg-center mt-24 flex justify-left '>
         <div className='w-1/2  overflow-hidden table '>
             <h1 className='font-bold text-9xl'>YOUR FEET DESERVE <br />THE BEST</h1>
             <br />

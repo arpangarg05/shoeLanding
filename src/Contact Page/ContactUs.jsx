@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ContactUs() {
+export default function ContactUs({bgColour = 'white'}) {
   return (
     <>
     <div className='ml-[188px]'>
@@ -26,7 +26,7 @@ export default function ContactUs() {
                 </button>
                 <form action="" className='flex mt-[24px] left-[16px] gap-5 w-[440px] flex-col relative'>
                     <div>
-                    <label htmlFor="name" className='absolute left-[28px] top-[-8px] bg-white'>Name</label>
+                    <label htmlFor="name" className={`absolute left-[28px] top-[-8px] bg-white`}>Name</label>
                     <input type="text" name="name" className='w-full mt-1 border-[1px] border-gray-500 rounded-sm h-[50px]' />
                     </div>
                     <div>
