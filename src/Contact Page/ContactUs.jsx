@@ -44,7 +44,7 @@ export default function ContactUs({bgColour = 'white'}) {
         </div>
         
         <div>
-            <img src="./src/assets/Service.svg" alt="" />
+            <img src="https://i.ibb.co/hRrPcpG/Service.png" alt="" />
         </div>
         </div>
     </div ></>

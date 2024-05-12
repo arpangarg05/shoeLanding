@@ -15,12 +15,12 @@ export default function Page() {
             <br />
             <div><p className='mb-3 text-gray-700 font-normal'>Also available on</p></div>
             <div className='flex justify-left'>
-                <img className='mr-3' src="./src/assets/flipkart.png" alt="" />
-                <img src="./src/assets/amazon.png" alt="" />
+                <img className='mr-3' src="https://i.ibb.co/mv4Gt79/flipkart.png" alt="" />
+                <img src="https://i.ibb.co/P5Cdf4f/amazon.png" alt="" />
             </div>
         </div>
-        <div className='table h-full'>
-            <img className='my-8 ml-4 ' src="./src/assets/shoe_image.png" alt="" />
+        <div className='table w-3/5 '>
+            <img className='mt-[-75px] ml-24 ' src="https://i.ibb.co/2gp7yvC/shoe-image.png" alt="" />
         </div>
     </div>
   )

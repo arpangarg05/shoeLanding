@@ -18,7 +18,6 @@ function App() {
   return (
     <>
     <div className=' w-full h-svh'>
-      <ColourBar onChange={changeColour} ></ColourBar>
       <NavBar></NavBar>
       <div className='flex justify-center'>
 
